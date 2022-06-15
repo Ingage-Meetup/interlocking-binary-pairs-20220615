@@ -29,5 +29,3 @@ These representations do not interlock. Finding they both have a 1 in the same p
 
 Starter templates for Java, Javascript, and Kotlin can for found in the [C3 Project Template repo](https://github.com/Ingage-Meetup/C3ProjectTemplate)
  
-
-
